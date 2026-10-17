@@ -1,7 +1,7 @@
 ![](assets/LinkedInBanner.png)
 
 
-## Articles
+# Articles
 Selected articles by Les:
 
 |**Article Title**|**Github**|**Published Links**|
@@ -20,28 +20,39 @@ Selected articles by Les:
 Articles are generally published on [LinkedIn](https://www.linkedin.com/in/leswaters/) (scroll down to Activity and click Articles), [Medium](https://cloudadvisor.medium.com/), and [GitHub](https://awsles.github.io/Articles/).
 
 
-## Projects
+# Projects
 
 * [UNSUBSCRIBE button add-in for Outlook](#UNSUBSCRIBE-button-add-in-for-Outlook)
 * [AWS Services](#AWS-Services)
 * [Azure Services](#Azure-Services)
 
-### UNSUBSCRIBE button add-in for Outlook
+## UNSUBSCRIBE button add-in for Outlook
 ![Unsubscribe add-in](https://awsles.github.io/unsubscribe/images/Promo_Banner2.png)
 
 I built an UNSUBSCRIBE button add-in for Outlook (desktop, web, and mobile) after getting fed up with all the junk email I was receiving. 🤪 It uses the [RFC-8058](https://certified-senders.org/wp-content/uploads/2017/07/CSA_one-click_list-unsubscribe.pdf) one-click unsubscribe with a fall-back to the embedded unsubscribe link.
 
 I figured others might find it useful too, so I'm sharing it here and would love some feedback. My plan is to make it available on Microsoft Marketplace (it's free and open source). See [https://awsles.github.io/unsubscribe/](https://awsles.github.io/unsubscribe/) for more detail along with the [LinkedIn Post](https://lnkd.in/p/ejw-xTic).
 
-### AWS Services
-![AWS Services](https://awsles.github.io/AwsServicesdocs/images/AWSServices.png)
+## AWS Services
+![AWS Services](https://awsles.github.io/AwsServices/docs/images/AWSServices.png)
 
 This PowerShell script scrapes AWS documentation and other sources to build a complete list of the latest AWS services and thier associated actions (as CSV). These are effectively the permissions that can be granted or denied through AWS policy.  This serves as a searchable resource to anyone who is bulding Service Control Policies (SCPs) in AWS. Each permission includes a link to the relevant AWS documentation for convenience.
 
 See: [https://awsles.github.io/AwsServices/](https://awsles.github.io/AwsServices/)
 
-### Azure Services
+## Azure Services
 This PowerShell script generates a complete list of Azure services and permissions.
 
 See: [https://awsles.github.io/AzureServices/](https://awsles.github.io/AzureServices/)
+
+
+## Patents
+
+* [US5790677A](https://patents.google.com/patent/US5790677A/en) - System and method for secure electronic commerce transactions (1 of 2)
+* [US6560581B1](https://patents.google.com/patent/US6560581B1/en) - System and method for secure electronic commerce transaction (2 of 2)
+* [US7039713B1](https://patents.google.com/patent/US7039713B1/en) - System and method of user authentication for network communication through a policy agent
+* [US5572589A](https://patents.google.com/patent/US5572589A/en) - Disc Serialization
+* [WO2000008610A1](https://patents.google.com/patent/WO2000008610A1/en)+ - Offline verification of integrated circuit card using hashed revocation list
+* *Pending* - Data Permission Evaluation (Amazon)
+* *Pending* - Drone Threat Evasion (Amazon)
 
