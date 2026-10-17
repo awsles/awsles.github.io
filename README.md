@@ -22,6 +22,10 @@ Articles are generally published on [LinkedIn](https://www.linkedin.com/in/leswa
 
 ## Projects
 
+* [UNSUBSCRIBE button add-in for Outlook](#UNSUBSCRIBE-button-add-in-for-Outlook)
+* [AWS Services](#AWS-Services)
+* [Azure Services](#Azure-Services)
+
 ### UNSUBSCRIBE button add-in for Outlook
 ![Unsubscribe add-in](https://awsles.github.io/unsubscribe/images/Promo_Banner2.png)
 
@@ -29,4 +33,15 @@ I built an UNSUBSCRIBE button add-in for Outlook (desktop, web, and mobile) afte
 
 I figured others might find it useful too, so I'm sharing it here and would love some feedback. My plan is to make it available on Microsoft Marketplace (it's free and open source). See [https://awsles.github.io/unsubscribe/](https://awsles.github.io/unsubscribe/) for more detail along with the [LinkedIn Post](https://lnkd.in/p/ejw-xTic).
 
+### AWS Services
+![AWS Services](https://awsles.github.io/AwsServicesdocs/images/AWSServices.png)
+
+This PowerShell script scrapes AWS documentation and other sources to build a complete list of the latest AWS services and thier associated actions (as CSV). These are effectively the permissions that can be granted or denied through AWS policy.  This serves as a searchable resource to anyone who is bulding Service Control Policies (SCPs) in AWS. Each permission includes a link to the relevant AWS documentation for convenience.
+
+See: [https://awsles.github.io/AwsServices/](https://awsles.github.io/AwsServices/)
+
+### Azure Services
+This PowerShell script generates a complete list of Azure services and permissions.
+
+See: [https://awsles.github.io/AzureServices/](https://awsles.github.io/AzureServices/)
 
