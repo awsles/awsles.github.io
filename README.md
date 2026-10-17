@@ -22,9 +22,9 @@ Articles are generally published on [LinkedIn](https://www.linkedin.com/in/leswa
 
 # Projects
 
-* [UNSUBSCRIBE button add-in for Outlook](#UNSUBSCRIBE-button-add-in-for-Outlook)
-* [AWS Services](#AWS-Services)
-* [Azure Services](#Azure-Services)
+* [UNSUBSCRIBE button add-in for Outlook](##UNSUBSCRIBE-button-add-in-for-Outlook)
+* [AWS Services](##AWS-Services)
+* [Azure Services](##Azure-Services)
 
 ## UNSUBSCRIBE button add-in for Outlook
 ![Unsubscribe add-in](https://awsles.github.io/unsubscribe/images/Promo_Banner2.png)
